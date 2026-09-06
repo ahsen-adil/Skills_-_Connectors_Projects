@@ -1,0 +1,6 @@
+Use this skill to make study notes from:
+This week we studied Large Language Models (LLMs).
+An LLM is an AI model trained on large amounts of text to understand and generate human-like language.
+We learned about tokens. Text is broken into smaller pieces called tokens, and models process these tokens rather than entire sentences at once.
+We also discussed prompting. A good prompt clearly describes the task, provides useful context, and specifies the desired output.
+Finally, we learned that LLMs can sometimes hallucinate, meaning they may generate information that sounds correct but is actually false. Important information should therefore be verified.

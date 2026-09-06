@@ -1,0 +1,5 @@
+Make study notes from this. This week I learned about AI Agents.
+AI Agents are systems that can understand a goal, make decisions, use tools, and complete tasks with limited human intervention.
+I also learned about the difference between automation and AI agents. Automation follows predefined rules, while AI agents can reason about what to do next.
+Another topic was MCP (Model Context Protocol). MCP allows AI models to connect with external tools and data sources in a standardized way.
+I learned that good AI systems should have verification and safety checks instead of blindly trusting the model.
